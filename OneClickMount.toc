@@ -1,0 +1,9 @@
+## Interface: 40200
+## Version: 1.0.0.1
+## Title: One Click Mount
+## Notes: Provide single click to mount a specific mount depending upon zone, conditions or config.
+## Author: Chuck Spencer
+
+## SavedVariablesPerCharacter: OneClickMountConfig
+
+OneClickMount.lua
